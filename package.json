@@ -1,0 +1,28 @@
+{
+  "name": "dragon",
+  "version": "0.0.1",
+  "description": "bot perfect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
